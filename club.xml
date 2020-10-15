@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Club 
+xsi: noNamespaceSchemaLocation="club.xsd" 
+clubId="ACM" 
+>
+   <Member id="_12345" clubs="ACM"> 
+   <Name>
+      <FirstName>WEB</FirstName>
+      <Email>ness@gmail.com</Email>
+      <MiddleInitial>H</MiddleInitial>
+      <LastName>DO</LastName>
+   </Name>
+   </Member>
+</Club>

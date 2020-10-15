@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre titre="Mon livre">
+ <auteurs>
+ <auteur nom="nouria" prenom="yassmin"/>
+ <auteur nom="Dkhil" prenom="syrine"/>
+ </auteurs>
+ <sections>
+ <section titre="Section 1">
+ <chapitre titre="Chapitre 1">
+ <paragraphe> paragraphe1</paragraphe>
+ <paragraphe> paragraphe2</paragraphe>
+ </chapitre>
+ <chapitre titre="Chapitre 2">
+ <paragraphe>paragraphe1</paragraphe>
+ <paragraphe> paragraphe2</paragraphe>
+ </chapitre>
+ </section>
+ <section titre="Section 2">
+ <chapitre titre="Chapitre 1">
+ <paragraphe>paragraphe1</paragraphe>
+ <paragraphe> paragraphe2</paragraphe>
+ </chapitre>
+ <chapitre titre="Chapitre 2">
+<paragraphe>paragraphe1</paragraphe>
+ <paragraphe> paragraphe2</paragraphe>
+ </chapitre>
+ </section>
+ </sections>
+</livre>

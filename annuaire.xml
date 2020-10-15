@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contact
+xsi: noNamespaceSchemaLocation="club.xsd"
+ titre="..." techno="...">
+<nom>jemaa</nom>
+<prenom>Nesrine</prenom>
+<telephone>555555</telephone> 
+<email>ness@gmail.com</email>
+</contact>
